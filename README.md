@@ -8,5 +8,6 @@ Plan:
 <li> Compare several deep architectures for all classifications. </li>
 <li> Investigate whether subsetting facial images based on gender and race enhances the accuracy of the age group classification.</li>
 
+
 Dataset: UTKFace dataset (University of Tennessee, Knoxville Face dataset)
 https://susanqq.github.io/UTKFace/
