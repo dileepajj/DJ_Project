@@ -1,7 +1,7 @@
 # DJ_Project
 
-Name: Dileepa Joseph Jayamanne
-Student ID: 22031359
+Name: Dileepa Joseph Jayamanne <br>
+Student ID: 22031359 <br>
 
 Project Title: A study on age, gender, and race classification from facial images using deep convolutional neural networks with transfer learning
 
