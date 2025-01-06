@@ -102,7 +102,7 @@ GE: Gender Embedding, GM: Gating Mechanism, AM: Attention Mechanism <br>
    https://drive.google.com/file/d/1qjtk9cKhRa6rO9KVJ-oYLsJGpBKcriGJ/view?usp=sharing
    <br>
 8) Hyperparameter Tuining (Folder 1 file links): 
-   <br>8.1) 1_initial_hyperparameter_tuning_FC1nodes_VGGmodel:  
+   <br> 8.1) 1_initial_hyperparameter_tuning_FC1nodes_VGGmodel:  
    <br> https://drive.google.com/file/d/1gwPMVIdN7yxVLpNIzOZwz2HSSuVAtswb/view?usp=sharing
    <br><br>8.2) 2_hp_tuning_learning_rates_and_bsizes_STL_VGGmodel_for_gender_classification
    <br> https://drive.google.com/file/d/16S_nN2yqWCmTBDnvAl9q2cvAPmcdm_kR/view?usp=sharing
