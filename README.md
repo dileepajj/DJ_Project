@@ -66,20 +66,20 @@ Folder 3: MTL_based_VGGmodel_ImageNetweights_with_fully_trainable_layers.ipynb (
 
 
 ## Google Colab Links
-Since UTKFace data exceeds the size the GitHub can host, it is stored in Google drive. <br> 
+Since UTKFace data exceeds the size the GitHub can store, it is stored in Google drive. <br> 
 <br>
 GE: Gender Embedding, GM: Gating Mechanism, AM: Attention Mechanism <br>
 1) MTL-VGG16 based models with ImageNet weights
-   <br> i)  Best Model: <br> https://drive.google.com/file/d/10Kan0Ip1Nip8ltLkCFuwevvrxMpsrFlZ/view?usp=drive_link
+   <br> i)  Best Model: <br> https://drive.google.com/file/d/10Kan0Ip1Nip8ltLkCFuwevvrxMpsrFlZ/view?usp=sharing
    <br> ii) Comparable model with GE + GM : <br> https://drive.google.com/file/d/1k56SYaE2zaqamPaZyinv3FklwQg98clu/view?usp=sharing
    <br> iii) Comparable model with GE + AM: <br> https://drive.google.com/file/d/1yECWUw_jgcrrkNrQ5h1qDgFBjBAht00f/view?usp=sharing
 
-2) MTL-VGG16 models with VGGFace weights <br>
+3) MTL-VGG16 models with VGGFace weights <br>
    i)  Best Model: https://drive.google.com/file/d/1qkO2akyCRlBNm6FTq2PKr8lDQkLit8Hj/view?usp=sharing
    <br> ii) Comparable model with GE + GM : <br> https://drive.google.com/file/d/1JhLbxEvNIYmr3DD9YD3NMpNb868dvQlp/view?usp=sharing
    <br> iii) Comparable model with GE + AM: <br> https://drive.google.com/file/d/1xx4W1Yj8ezneAot4Gog6lvboNynYceic/view?usp=sharing
    <br>
-3) Custom CNN model: <br>
+4) Custom CNN model: <br>
    This file includes the following models: <br>
     i) Best CNN model<br>
     ii) CNNbase + GE <br>
@@ -87,21 +87,21 @@ GE: Gender Embedding, GM: Gating Mechanism, AM: Attention Mechanism <br>
     iv) CNNbase + GE + AM <br>
     Link: https://drive.google.com/file/d/15TsPFrAgBQuJqWrm54Sc5kX-EfuVrdKP/view?usp=sharing
     <br>
-4) Single-Task Learning VGG based best models:
+5) Single-Task Learning VGG based best models:
    <br>i) Gender Classification: <br> https://drive.google.com/file/d/174LA49-VeGeJ4jZWptPRTZgMQ8bvniY4/view?usp=sharing
    <br>ii) Age Group Classification: <br> https://drive.google.com/file/d/1irPhSomguSpy-88n8JbXDO0rCuALk7zs/view?usp=sharing
    <br>iii) Race Classification: <br> https://drive.google.com/file/d/1qD8zoZ9oDxCD9aeB1pO3z1ohpXF1hP8D/view?usp=sharing
    <br>
-5) Best VGG19 model: <br>
+6) Best VGG19 model: <br>
    https://drive.google.com/file/d/1D6bsKKmgV588f7AJ0lCPvPW6mZE6H_wa/view?usp=sharing
    <br>
-6) Best ResNet50 model <br>
+7) Best ResNet50 model <br>
    https://drive.google.com/file/d/1_wHjyNI7LJzNzXglMHkqAJwgqWl-hIbR/view?usp=sharing
    <br>
-7) Best DenseNet121 model<br>
+8) Best DenseNet121 model<br>
    https://drive.google.com/file/d/1qjtk9cKhRa6rO9KVJ-oYLsJGpBKcriGJ/view?usp=sharing
    <br>
-8) Hyperparameter Tuining (Folder 1 file links):<br>
+9) Hyperparameter Tuining (Folder 1 file links):<br>
    8.1) 1_initial_hyperparameter_tuning_FC1nodes_VGGmodel:  
    https://drive.google.com/file/d/1gwPMVIdN7yxVLpNIzOZwz2HSSuVAtswb/view?usp=sharing
    <br> 8.2) 2_hp_tuning_learning_rates_and_bsizes_STL_VGGmodel_for_gender_classification
