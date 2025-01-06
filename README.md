@@ -64,7 +64,7 @@ Folder 3: MTL_based_VGGmodel_ImageNetweights_with_fully_trainable_layers.ipynb (
    Folder 8: fully trainable: MTL_based_DenseNet121_model_ImageNetweights_with_fully_trainable_layers.ipynb (file 2) <br>
 
 
-# Google Colab Links
+## Google Colab Links
 Since UTKFace data exceeds the size the GitHub can host, it is stored in Google drive. <br> 
 <br>
 GE: Gender Embedding, GM: Gating Mechanism, AM: Attention Mechanism <br>
@@ -100,8 +100,21 @@ GE: Gender Embedding, GM: Gating Mechanism, AM: Attention Mechanism <br>
 7) Best DenseNet121 model<br>
    https://drive.google.com/file/d/1qjtk9cKhRa6rO9KVJ-oYLsJGpBKcriGJ/view?usp=sharing
    <br>
-8) Hyperparameter Tuining:
-     
+8) Hyperparameter Tuining (Folder 1 file links): 
+   <br>8.1) 1_initial_hyperparameter_tuning_FC1nodes_VGGmodel:  
+   <br> https://drive.google.com/file/d/1gwPMVIdN7yxVLpNIzOZwz2HSSuVAtswb/view?usp=sharing
+   <br>8.2) 2_hp_tuning_learning_rates_and_bsizes_STL_VGGmodel_for_gender_classification
+   <br> https://drive.google.com/file/d/16S_nN2yqWCmTBDnvAl9q2cvAPmcdm_kR/view?usp=sharing
+   <br>8.3) 3_hp_tuning_learning_rates_and_bsizes_MTL_VGGmodel_for_all_classifications_v1
+   <br> https://drive.google.com/file/d/1V4pZ-BpIg8erbQO4OnXErN2JEOEiox5H/view?usp=sharing
+   <br>8.4) 3.1_hp_tuning_learning_rates_and_bsizes_MTL_VGGmodel_for_all_classifications_v2
+   <br> https://drive.google.com/file/d/1eB-M4FyC4Mi7pw0ooh7Y0rmOHtllKawv/view?usp=sharing
+   <br>8.5) 4_hp_tuning_learning_rates_and_bsizes_MTL_ResNet_model_for_all_classifications_v1
+   <br> https://drive.google.com/file/d/1N2wf1ca6b7x5TdE0Ht1cAKcO50kEwYRQ/view?usp=sharing
+   <br>8.6) 5_hp_tuning_learning_rates_and_bsizes_MTL_ResNetmodel_for_all_classifications_v2
+   <br> https://drive.google.com/file/d/1U2RPUqv15BDF4rs8MKE-aq-UL0bIN9vi/view?usp=sharing
+   <br>
+
 
 
    
