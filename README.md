@@ -87,7 +87,7 @@ GE: Gender Embedding, GM: Gating Mechanism, AM: Attention Mechanism <br>
     iv) CNNbase + GE + AM <br>
     Link: https://drive.google.com/file/d/15TsPFrAgBQuJqWrm54Sc5kX-EfuVrdKP/view?usp=sharing
     <br>
-4) Single-Task Learning VGG based best models:<br>
+4) Single-Task Learning VGG based best models:
    <br>i) Gender Classification: <br> https://drive.google.com/file/d/174LA49-VeGeJ4jZWptPRTZgMQ8bvniY4/view?usp=sharing
    <br>ii) Age Group Classification: <br> https://drive.google.com/file/d/1irPhSomguSpy-88n8JbXDO0rCuALk7zs/view?usp=sharing
    <br>iii) Race Classification: <br> https://drive.google.com/file/d/1qD8zoZ9oDxCD9aeB1pO3z1ohpXF1hP8D/view?usp=sharing
