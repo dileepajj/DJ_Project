@@ -46,7 +46,7 @@ Folder 3: MTL_based_VGGmodel_ImageNetweights_with_fully_trainable_layers.ipynb (
      Folder 3: GE+GM--> MTL_based_VGGmodel_VGGFaceweights_v4.ipynb (file 4)<br>
      Folder 3: GE+AM--> MTL_based_VGGmodel_VGGFaceweights_v5.ipynb (file 5)<br>
      
- <b>------------ Other models ---------------------</b>
+ <b>------------ Other models ---------------------</b> <br><br>
 4) Best CNN model that doesn't use transfer learning <br>
    Folder 4: MTL_based_CNNmodels_noTransferLearning_v1.ipynb (file 1)<br>
 
