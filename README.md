@@ -14,12 +14,11 @@ Folder 3: MTL_based_VGGmodel_ImageNetweights_with_fully_trainable_layers.ipynb (
 
 3) Alternative comparable partially trainable models with gender embedding (GE) and gating mechanism (GM) or attendtion mechanism (AM) <br>
 3.1) with ImageNet weights: <br>
-Folder 2: GE+GM--> MTL_based_VGGmodel_ImageNetweights_v4.ipynb (4th file)<br>
-Folder 2: GE+AM--> MTL_based_VGGmodel_ImageNetweights_v5.ipynb (5th file)
+     Folder 2: GE+GM--> MTL_based_VGGmodel_ImageNetweights_v4.ipynb (4th file)<br>
+     Folder 2: GE+AM--> MTL_based_VGGmodel_ImageNetweights_v5.ipynb (5th file)<br>
 3.2) with VGGFace weights: <br>
-Folder 3: GE+GM--> MTL_based_VGGmodel_VGGFaceweights_v4.ipynb (4th file)<br>
-Folder 3: GE+AM--> MTL_based_VGGmodel_VGGFaceweights_v5.ipynb (5th file)
-
+     Folder 3: GE+GM--> MTL_based_VGGmodel_VGGFaceweights_v4.ipynb (4th file)<br>
+     Folder 3: GE+AM--> MTL_based_VGGmodel_VGGFaceweights_v5.ipynb (5th file)<br>
 
 
 Project aim: To classify age, gender, and race from facial images using deep convolutional neural networks with transfer learning.
