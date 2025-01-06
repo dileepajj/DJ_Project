@@ -117,11 +117,17 @@ GE: Gender Embedding, GM: Gating Mechanism, AM: Attention Mechanism <br>
    <br>
 
 
-
-   
-   
-   
-
+## Dataset   
 
 Dataset: UTKFace dataset (University of Tennessee, Knoxville Face dataset)
 https://susanqq.github.io/UTKFace/
+
+## MTL-based models with VGG16 convolutional base
+
+![MTL-VGG model](https://github.com/user-attachments/assets/6252a6c8-3fbf-4a6f-8ea4-0187139c11a3)
+
+
+## STL-based models with models with VGG16 convolutional base
+
+## References
+
