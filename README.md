@@ -64,5 +64,34 @@ Folder 3: MTL_based_VGGmodel_ImageNetweights_with_fully_trainable_layers.ipynb (
    Folder 8: fully trainable: MTL_based_DenseNet121_model_ImageNetweights_with_fully_trainable_layers.ipynb (file 2) <br>
 
 
+# Google Colab Links
+
+GE: Gender Embedding, GM: Gating Mechanism, AM: Attention Mechanism <br>
+1) MTL-VGG16 based models with ImageNet weights
+   <br> i)  Best Model: https://drive.google.com/file/d/10Kan0Ip1Nip8ltLkCFuwevvrxMpsrFlZ/view?usp=drive_link
+   <br> ii) Comparable model with GE + GM : https://drive.google.com/file/d/1k56SYaE2zaqamPaZyinv3FklwQg98clu/view?usp=sharing
+   <br> iii) Comparable model with GE + AM: https://drive.google.com/file/d/1yECWUw_jgcrrkNrQ5h1qDgFBjBAht00f/view?usp=sharing
+
+2) MTL-VGG16 models with VGGFace weights <br>
+   i)  Best Model: https://drive.google.com/file/d/1qkO2akyCRlBNm6FTq2PKr8lDQkLit8Hj/view?usp=sharing
+   <br> ii) Comparable model with GE + GM : https://drive.google.com/file/d/1JhLbxEvNIYmr3DD9YD3NMpNb868dvQlp/view?usp=sharing
+   <br> iii) Comparable model with GE + AM: https://drive.google.com/file/d/1xx4W1Yj8ezneAot4Gog6lvboNynYceic/view?usp=sharing
+   <br>
+4) Custom CNN model
+   i)  Best CNN model:
+   iii) CNNbase + GE: 
+   iii) CNNbase + GE + GM:
+   iv) CNNbase + GE + AM:
+   
+6) Best DenseNet121 model
+   i)
+
+7) Best ResNet50 model
+   i) 
+   
+   
+   
+
+
 Dataset: UTKFace dataset (University of Tennessee, Knoxville Face dataset)
 https://susanqq.github.io/UTKFace/
