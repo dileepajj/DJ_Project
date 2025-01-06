@@ -30,7 +30,7 @@ associated with training separate models for individual tasks, establishing its 
 faceted classification tasks.  </li></ul>
 
 
-## Codes
+## Organisation of code files in GitHub
 Best VGG Models:
 1) Best Multi-Task Learning (MTL) based code with ImageNet weights <br>
 Folder 2: MTL_based_VGGmodel_ImageNetweights_with_fully_trainable_layers.ipynb (file 6)
@@ -65,29 +65,45 @@ Folder 3: MTL_based_VGGmodel_ImageNetweights_with_fully_trainable_layers.ipynb (
 
 
 # Google Colab Links
-
+Since UTKFace data exceeds the size the GitHub can host, it is stored in Google drive. <br> 
+<br>
 GE: Gender Embedding, GM: Gating Mechanism, AM: Attention Mechanism <br>
 1) MTL-VGG16 based models with ImageNet weights
-   <br> i)  Best Model: https://drive.google.com/file/d/10Kan0Ip1Nip8ltLkCFuwevvrxMpsrFlZ/view?usp=drive_link
-   <br> ii) Comparable model with GE + GM : https://drive.google.com/file/d/1k56SYaE2zaqamPaZyinv3FklwQg98clu/view?usp=sharing
-   <br> iii) Comparable model with GE + AM: https://drive.google.com/file/d/1yECWUw_jgcrrkNrQ5h1qDgFBjBAht00f/view?usp=sharing
+   <br> i)  Best Model: <br> https://drive.google.com/file/d/10Kan0Ip1Nip8ltLkCFuwevvrxMpsrFlZ/view?usp=drive_link
+   <br> ii) Comparable model with GE + GM : <br> https://drive.google.com/file/d/1k56SYaE2zaqamPaZyinv3FklwQg98clu/view?usp=sharing
+   <br> iii) Comparable model with GE + AM: <br> https://drive.google.com/file/d/1yECWUw_jgcrrkNrQ5h1qDgFBjBAht00f/view?usp=sharing
 
 2) MTL-VGG16 models with VGGFace weights <br>
    i)  Best Model: https://drive.google.com/file/d/1qkO2akyCRlBNm6FTq2PKr8lDQkLit8Hj/view?usp=sharing
-   <br> ii) Comparable model with GE + GM : https://drive.google.com/file/d/1JhLbxEvNIYmr3DD9YD3NMpNb868dvQlp/view?usp=sharing
-   <br> iii) Comparable model with GE + AM: https://drive.google.com/file/d/1xx4W1Yj8ezneAot4Gog6lvboNynYceic/view?usp=sharing
+   <br> ii) Comparable model with GE + GM : <br> https://drive.google.com/file/d/1JhLbxEvNIYmr3DD9YD3NMpNb868dvQlp/view?usp=sharing
+   <br> iii) Comparable model with GE + AM: <br> https://drive.google.com/file/d/1xx4W1Yj8ezneAot4Gog6lvboNynYceic/view?usp=sharing
    <br>
-4) Custom CNN model
-   i)  Best CNN model:
-   iii) CNNbase + GE: 
-   iii) CNNbase + GE + GM:
-   iv) CNNbase + GE + AM:
-   
-6) Best DenseNet121 model
-   i)
+3) Custom CNN model: <br>
+   This file includes the following models: <br>
+    i) Best CNN model<br>
+    ii) CNNbase + GE <br>
+    iii) CNNbase + GE + GM <br>
+    iv) CNNbase + GE + AM <br>
+    Link: https://drive.google.com/file/d/15TsPFrAgBQuJqWrm54Sc5kX-EfuVrdKP/view?usp=sharing
+    <br>
+4) Single-Task Learning VGG based best models:<br>
+   <br>i) Gender Classification: <br> https://drive.google.com/file/d/174LA49-VeGeJ4jZWptPRTZgMQ8bvniY4/view?usp=sharing
+   <br>ii) Age Group Classification: <br> https://drive.google.com/file/d/1irPhSomguSpy-88n8JbXDO0rCuALk7zs/view?usp=sharing
+   <br>iii) Race Classification: <br> https://drive.google.com/file/d/1qD8zoZ9oDxCD9aeB1pO3z1ohpXF1hP8D/view?usp=sharing
+   <br>
+5) Best VGG19 model: <br>
+   https://drive.google.com/file/d/1D6bsKKmgV588f7AJ0lCPvPW6mZE6H_wa/view?usp=sharing
+   <br>
+6) Best ResNet50 model <br>
+   https://drive.google.com/file/d/1_wHjyNI7LJzNzXglMHkqAJwgqWl-hIbR/view?usp=sharing
+   <br>
+7) Best DenseNet121 model<br>
+   https://drive.google.com/file/d/1qjtk9cKhRa6rO9KVJ-oYLsJGpBKcriGJ/view?usp=sharing
+   <br>
+8) Hyperparameter Tuining:
+     
 
-7) Best ResNet50 model
-   i) 
+
    
    
    
