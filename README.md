@@ -33,18 +33,18 @@ faceted classification tasks.  </li></ul>
 ## Organisation of Colab files in GitHub
 <b>Best VGG Models:</b>
 1) Best Multi-Task Learning (MTL) based code with ImageNet weights <br>
-Folder 2: MTL_based_VGGmodel_ImageNetweights_with_fully_trainable_layers.ipynb (file 6)
+<b>Folder 2</b>: MTL_based_VGGmodel_ImageNetweights_with_fully_trainable_layers.ipynb (file 6)
 
 2) Best Multi-Task Learning (MTL) based code with VGGFace weights: <br>
-Folder 3: MTL_based_VGGmodel_ImageNetweights_with_fully_trainable_layers.ipynb (file 6)
+<b>Folder 3</b>: MTL_based_VGGmodel_ImageNetweights_with_fully_trainable_layers.ipynb (file 6)
 
 3) Alternative comparable partially trainable models with gender embedding (GE) and gating mechanism (GM) or attendtion mechanism (AM) <br>
 3.1) with ImageNet weights: <br>
-     Folder 2: GE+GM--> MTL_based_VGGmodel_ImageNetweights_v4.ipynb (file 4)<br>
-     Folder 2: GE+AM--> MTL_based_VGGmodel_ImageNetweights_v5.ipynb (file 5)<br>
+     <b>Folder 2</b>: GE+GM--> MTL_based_VGGmodel_ImageNetweights_v4.ipynb (file 4)<br>
+     <b>Folder 2</b>: GE+AM--> MTL_based_VGGmodel_ImageNetweights_v5.ipynb (file 5)<br>
 3.2) with VGGFace weights: <br>
-     Folder 3: GE+GM--> MTL_based_VGGmodel_VGGFaceweights_v4.ipynb (file 4)<br>
-     Folder 3: GE+AM--> MTL_based_VGGmodel_VGGFaceweights_v5.ipynb (file 5)<br>
+     <b>Folder 3</b>: GE+GM--> MTL_based_VGGmodel_VGGFaceweights_v4.ipynb (file 4)<br>
+     <b>Folder 3</b>: GE+AM--> MTL_based_VGGmodel_VGGFaceweights_v5.ipynb (file 5)<br>
      
 <b>-------------- Other Models ---------------------</b> <br><br>
 4) Best CNN model that doesn't use transfer learning <br>
