@@ -46,7 +46,7 @@ Folder 3: MTL_based_VGGmodel_ImageNetweights_with_fully_trainable_layers.ipynb (
      Folder 3: GE+GM--> MTL_based_VGGmodel_VGGFaceweights_v4.ipynb (file 4)<br>
      Folder 3: GE+AM--> MTL_based_VGGmodel_VGGFaceweights_v5.ipynb (file 5)<br>
      
- <b>------------ Other models ---------------------</b> <br><br>
+<b>-------------- Other Models ---------------------</b> <br><br>
 4) Best CNN model that doesn't use transfer learning <br>
    Folder 4: MTL_based_CNNmodels_noTransferLearning_v1.ipynb (file 1)<br>
 
@@ -55,10 +55,10 @@ Folder 3: MTL_based_VGGmodel_ImageNetweights_with_fully_trainable_layers.ipynb (
    Folder 5: Age group classification: 2_STL_VGGmodel_imagenet_weights_for_age_group_classification.ipynb (file 2)<br>
    Folder 5: Race classification: 3_STL_VGGmodel_imagenet_weights_for_race_classification.ipynb (file 3)<br>
      
- 6) Best MTL-VGG19 model<br>
+6) Best MTL-VGG19 model<br>
     Folder 6: fully trainable: MTL_based_VGG19model_ImageNetweights_with_fully_trainable_layers.ipynb (file 2) <br>
 
- 7) Best MTL-ResNet50 model <br>
+7) Best MTL-ResNet50 model <br>
     Folder 7: fully trainable: MTL_based_ResNetmodel_ImageNetweights_with_fully_trainable_layers.ipynb (file 2) <br>
 
 8) Best MTL-DenseNet121 model <br>
