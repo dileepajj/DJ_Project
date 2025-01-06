@@ -101,7 +101,7 @@ GE: Gender Embedding, GM: Gating Mechanism, AM: Attention Mechanism <br>
 7) Best DenseNet121 model<br>
    https://drive.google.com/file/d/1qjtk9cKhRa6rO9KVJ-oYLsJGpBKcriGJ/view?usp=sharing
    <br>
-8) Hyperparameter Tuining (Folder 1 file links): 
+8) Hyperparameter Tuining (Folder 1 file links):<br>
    8.1) 1_initial_hyperparameter_tuning_FC1nodes_VGGmodel:  
    https://drive.google.com/file/d/1gwPMVIdN7yxVLpNIzOZwz2HSSuVAtswb/view?usp=sharing
    <br> 8.2) 2_hp_tuning_learning_rates_and_bsizes_STL_VGGmodel_for_gender_classification
