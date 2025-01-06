@@ -15,19 +15,19 @@ achieving test accuracies of 92.2% for age group, 98.1% for gender, and 94.3% fo
 standard deep learning architectures like VGG16, VGG19, ResNet50, and DenseNet121, with 
 transfer learning and fully connected layers appended to a shared convolutional base. </li>
 <li>Additionally, a fully trainable MTL model without transfer learning was developed for 
-benchmarking. </li></ul>
+benchmarking. </li>
 
-Results highlight that MTL models with VGG16 convolutional base tend to outperform STL
+<li>Results highlight that MTL models with VGG16 convolutional base tend to outperform STL
 based models in both accuracy and F1-scores, for age group, gender and race classifications 
-of UTKFace data. The best MTL model, utilizing a VGG16 base with ImageNet weights, 
+of UTKFace data. </li> <li>The best MTL model, utilizing a VGG16 base with ImageNet weights, 
 achieved test accuracies of 92.5%, 98.2%, and 95% for age group, gender, and race, 
 respectively. Using VGGFace weights yielded comparable classification performance with 
-91.8% for age group, 97.9% for gender and 95.6% for race. Partially frozen MTL-VGG models, 
+91.8% for age group, 97.9% for gender and 95.6% for race.</li><li>Partially frozen MTL-VGG models, 
 incorporating gender embeddings with gating or attention mechanisms, demonstrated 
-competitive performance with significantly reduced parameter counts. Overall, the MTL 
+competitive performance with significantly reduced parameter counts.</li> <li>Overall, the MTL 
 approach not only improves performance but also reduces the computational overhead 
 associated with training separate models for individual tasks, establishing its efficacy for multi
-faceted classification tasks. 
+faceted classification tasks.  </li></ul>
 
 
 ## Codes
