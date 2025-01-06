@@ -3,7 +3,7 @@
 Name: Dileepa Joseph Jayamanne <br>
 Student ID: 22031359 <br>
 
-<b>Project Title<br>: Classification of age group, gender and race from facial images using deep convolutional neural networks with transfer learning 
+<b>Project Title</b>: Classification of age group, gender and race from facial images using deep convolutional neural networks with transfer learning 
 
 <ul>
      <li>This work investigates the performance of single-task learning (STL) and multi-task learning 
