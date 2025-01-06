@@ -30,7 +30,7 @@ associated with training separate models for individual tasks, establishing its 
 faceted classification tasks.  </li></ul>
 
 
-## Organisation of code files in GitHub
+## Organisation of Colab files in GitHub
 <b>Best VGG Models:</b>
 1) Best Multi-Task Learning (MTL) based code with ImageNet weights <br>
 Folder 2: MTL_based_VGGmodel_ImageNetweights_with_fully_trainable_layers.ipynb (file 6)
