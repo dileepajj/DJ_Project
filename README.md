@@ -5,6 +5,31 @@ Student ID: 22031359 <br>
 
 Project Title: Classification of age group, gender and race from facial images using deep convolutional neural networks with transfer learning 
 
+<ul>This work investigates the performance of single-task learning (STL) and multi-task learning 
+(MTL) approaches for classifying age group, gender, and race from facial images in the 
+UTKFace dataset. </ul>
+<ul>STL-based VGG models were initially employed for individual classifications, 
+achieving test accuracies of 92.2% for age group, 98.1% for gender, and 94.3% for race. </ul>
+<ul>MTL models were subsequently introduced to perform all three tasks simultaneously, leveraging 
+standard deep learning architectures like VGG16, VGG19, ResNet50, and DenseNet121, with 
+transfer learning and fully connected layers appended to a shared convolutional base. <ul>
+<ul>Additionally, a fully trainable MTL model without transfer learning was developed for 
+benchmarking. </ul>
+
+Results highlight that MTL models with VGG16 convolutional base tend to outperform STL
+based models in both accuracy and F1-scores, for age group, gender and race classifications 
+of UTKFace data. The best MTL model, utilizing a VGG16 base with ImageNet weights, 
+achieved test accuracies of 92.5%, 98.2%, and 95% for age group, gender, and race, 
+respectively. Using VGGFace weights yielded comparable classification performance with 
+91.8% for age group, 97.9% for gender and 95.6% for race. Partially frozen MTL-VGG models, 
+incorporating gender embeddings with gating or attention mechanisms, demonstrated 
+competitive performance with significantly reduced parameter counts. Overall, the MTL 
+approach not only improves performance but also reduces the computational overhead 
+associated with training separate models for individual tasks, establishing its efficacy for multi
+faceted classification tasks. 
+
+
+## Codes
 Best VGG Models:
 1) Best Multi-Task Learning (MTL) based code with ImageNet weights <br>
 Folder 2: MTL_based_VGGmodel_ImageNetweights_with_fully_trainable_layers.ipynb (file 6)
